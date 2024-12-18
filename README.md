@@ -11,8 +11,5 @@ King Chow Chow (KCC) is a community-driven cryptocurrency deployed on Binance Sm
 - **Buy KCC Token**: Available on PancakeSwap [Buy KCC Token on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xcB86100fE6D1F70B1026d1c03ad1eB99fCBc5ed8).
 - **Smart Contract**: [View Smart Contract](https://bscscan.com/address/0xcB86100fE6D1F70B1026d1c03ad1eB99fCBc5ed8)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request.
